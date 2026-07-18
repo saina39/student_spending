@@ -61,20 +61,10 @@ The interactive dashboard includes:
 Student-Spending-Dashboard/
 │
 ├── Dataset/
-├── Dashboard/
+├──Student Spending Dashboard/
 ├── Questions/
 └── README.md
 ```
-
----
-
-## 📸 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard](Images/dashboard.png)
 
 ---
 
@@ -104,10 +94,4 @@ Example:
 
 **Saina Patel**
 
-B.Tech CSE (AI & ML)
-
-Aspiring Data Analyst
-
 LinkedIn: *www.linkedin.com/in/saina-patel-1b255131b*
-
-GitHub: *(Add your GitHub Profile)*
